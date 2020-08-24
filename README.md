@@ -4,6 +4,7 @@
 来咨询的小伙伴比较多，不能一一回复邮件，请先加入交流群保持联系吧  
 ↓↓↓↓↓↓↓↓↓↓  
 [技术交流群](http://xuedingmiao.com:3333/)  
+![交流群](https://raw.githubusercontent.com/xuedingmiaojun/xuedingmiaojun/master/qun.png)
 <img src="qun.png" alt="技术交流群" height="145" />
 
 <!--
