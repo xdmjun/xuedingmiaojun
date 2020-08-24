@@ -3,7 +3,8 @@
 
 来咨询的小伙伴比较多，不能一一回复邮件，请先加入交流群保持联系吧  
 ↓↓↓↓↓↓↓↓↓↓  
-[技术交流群](http://xuedingmiao.com:3333/)
+[技术交流群](http://xuedingmiao.com:3333/)  
+<img src="qun.png" alt="技术交流群" height="145" />
 
 <!--
 **xuedingmiaojun/xuedingmiaojun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
