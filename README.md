@@ -1,9 +1,13 @@
 
 [![Xdmj's github stats](https://github-readme-stats.vercel.app/api?username=xuedingmiaojun&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-科技爱好者周刊(同步于阮一峰开源杂志)
+科技爱好者周刊(同步于阮一峰老师开源杂志)
 ↓↓↓↓↓↓↓↓↓↓  
 ![开源周刊](https://raw.githubusercontent.com/xuedingmiaojun/xuedingmiaojun/master/science-lover.jpg)
+
+|首页|详情页|
+|---|---|
+|<img src="http://cdn.xuedingmiao.com/weekly-home.jpg" style="width: 45%;">|<img src="http://cdn.xuedingmiao.com/weekly-detail.jpg" style="width: 45%;">|
 
 <!--
 **xuedingmiaojun/xuedingmiaojun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
