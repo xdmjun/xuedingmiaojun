@@ -5,10 +5,6 @@
 ↓↓↓↓↓↓↓↓↓↓  
 ![开源周刊](https://raw.githubusercontent.com/xuedingmiaojun/xuedingmiaojun/master/science-lover.jpg)
 
-|首页|详情页|
-|---|---|
-|<img src="http://cdn.xuedingmiao.com/weekly-home.jpg" style="width: 45%;">|<img src="http://cdn.xuedingmiao.com/weekly-detail.jpg" style="width: 45%;">|
-
 <!--
 **xuedingmiaojun/xuedingmiaojun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
