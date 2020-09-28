@@ -1,7 +1,8 @@
 
 <!--[![Xdmj's github stats](https://github-readme-stats.vercel.app/api?username=xuedingmiaojun&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)-->
 
-科技爱好者周刊(同步于阮一峰老师开源杂志)
+![](https://visitor-badge.glitch.me/badge?page_id=xuedingmiaojun.xuedingmiaojun)  
+科技爱好者周刊(同步于阮一峰老师开源杂志)  
 ↓↓↓↓↓↓↓↓↓↓  
 ![开源周刊](http://cdn.xuedingmiao.com/science-lover.jpg)
 
