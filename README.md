@@ -3,7 +3,7 @@
 
 科技爱好者周刊(同步于阮一峰老师开源杂志)
 ↓↓↓↓↓↓↓↓↓↓  
-![开源周刊](https://raw.githubusercontent.com/xuedingmiaojun/xuedingmiaojun/master/science-lover.jpg)
+![开源周刊](http://cdn.xuedingmiao.com/science-lover.jpg)
 
 <!--
 **xuedingmiaojun/xuedingmiaojun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
