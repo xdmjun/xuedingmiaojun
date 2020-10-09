@@ -6,12 +6,7 @@
 ↓↓↓↓↓↓↓↓↓↓  
 ![开源周刊](http://cdn.xuedingmiao.com/science-lover.jpg)
 
-<iframe  
- height=450 
- width=90% 
- src="http://xuedingmiao.com/"  
- frameborder=0  
- allowfullscreen>
+<iframe height="450px"  width="90%"  src="http://xuedingmiao.com" frameborder=0 allowfullscreen>
  </iframe>
 
 <!--
