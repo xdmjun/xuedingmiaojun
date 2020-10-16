@@ -5,7 +5,7 @@
      ↓↓↓↓↓↓↓↓↓↓  
 ![开源周刊](http://cdn.xuedingmiao.com/science-lover.jpg)   
 
-[![Xdmj's github stats](https://github-readme-stats.vercel.app/api?username=xuedingmiaojun&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Xdmj's github stats](https://github-readme-stats.vercel.app/api?username=xuedingmiaojun&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
