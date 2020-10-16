@@ -1,12 +1,12 @@
+独立博客[http://xuedingmiao.com](http://xuedingmiao.com)  
 
-![](https://visitor-badge.glitch.me/badge?page_id=xuedingmiaojun.xuedingmiaojun)  
+[![Xdmj's github stats](https://github-readme-stats.vercel.app/api?username=xuedingmiaojun&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 科技爱好者周刊(同步于阮一峰老师开源杂志)  
      ↓↓↓↓↓↓↓↓↓↓  
 ![开源周刊](http://cdn.xuedingmiao.com/science-lover.jpg)   
 
-[![Xdmj's github stats](https://github-readme-stats.vercel.app/api?username=xuedingmiaojun&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
+![](https://visitor-badge.glitch.me/badge?page_id=xuedingmiaojun.xuedingmiaojun)  
 
 <!--
 <iframe height="450px"  width="90%"  src="http://xuedingmiao.com" frameborder=0 allowfullscreen>
