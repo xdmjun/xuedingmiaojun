@@ -1,5 +1,5 @@
 独立博客 [http://xuedingmiao.com](http://xuedingmiao.com)   
-分享前端小知识、日常开发笔记、业余开发的小工具、产品笔记、互联网早报、[科技爱好者周刊博主内嵌版](https://github.com/ruanyf/weekly)  
+分享前端小知识、日常开发笔记、业余开发的小工具、产品笔记、互联网早报、[科技爱好者周刊](https://github.com/ruanyf/weekly)[博主内嵌版](http://xuedingmiao.com/science_lover/)  
 
 [![Xdmj's github stats](https://github-readme-stats.vercel.app/api?username=xuedingmiaojun&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
