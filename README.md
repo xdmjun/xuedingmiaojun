@@ -5,7 +5,7 @@
 
 加入技术交流群，一起学习(邮件回复不及时)    
 
-<img src="http://cdn.xuedingmiao.com/jlq.png" alt="技术交流群" height="185" />  
+<img src="http://cdn.xuedingmiao.com/jlqbtf.png" alt="技术交流群" height="185" />  
 
 欢迎关注博主的公众号『极客之路』  
 
