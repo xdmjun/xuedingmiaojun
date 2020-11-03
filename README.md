@@ -3,10 +3,6 @@
 
 [![Xdmj's github stats](https://github-readme-stats.vercel.app/api?username=xuedingmiaojun&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-加入技术交流群，一起学习(邮件回复不及时)    
-
-<img src="http://cdn.xuedingmiao.com/jlqbtf.png" alt="技术交流群" height="185" />  
-
 欢迎关注博主的公众号『极客之路』  
 
 <img src="http://xuedingmiao.com/images/qrcode_for_xdmj.jpg" alt="极客之路" height="185" /> 
