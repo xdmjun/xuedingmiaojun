@@ -7,6 +7,7 @@ B站 [https://space.bilibili.com/16267271](https://space.bilibili.com/16267271)
 <img src="http://xuedingmiao.com/images/qrcode_for_xdmj.jpg" alt="极客之路" height="135" /> 
 
 #### recently
+- [云函数检测小程序wxapkg包分包数、页面数等基础信息](https://mp.weixin.qq.com/s/sQtaGnXgLlw4bAvB37eYbQ)-[演示视频](https://www.bilibili.com/video/BV1T64y1v7ZX)
 - [小程序wxapkg包一键运行至浏览器](https://mp.weixin.qq.com/s/JxlnmMK7aoLkNXPd_U5zoA)-[演示视频](https://www.bilibili.com/video/BV1SU4y137K6)
 
 #### 实现微信小程序最新运行环境
