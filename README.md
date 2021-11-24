@@ -1,7 +1,7 @@
 独立博客 [http://xuedingmiao.com](http://xuedingmiao.com)   
 B站 [https://space.bilibili.com/16267271](https://space.bilibili.com/16267271)  
 [![Xdmj's github stats](https://github-readme-stats.vercel.app/api?username=xuedingmiaojun&show_icons=true&theme=cobalt)](https://github.com/xuedingmiaojun)  
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=xuedingmiaojun&layout=compact&show_icons=true&theme=outrun)  
+
 
 欢迎关注博主的公众号『极客之路』  
 
