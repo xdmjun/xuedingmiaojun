@@ -1,5 +1,9 @@
 [![Xdmj's github stats](https://github-readme-stats.vercel.app/api?username=xuedingmiaojun&show_icons=true&theme=cobalt)](https://github.com/xuedingmiaojun)  
 
+博主同名公众号『薛定喵君』    
+
+<img src="http://cdn.xuedingmiao.com/xdmj2022.jpeg" alt="薛定喵君" height="135" />  
+
 ![](https://visitor-badge.glitch.me/badge?page_id=xuedingmiaojun.xuedingmiaojun)  
 
 <!--
